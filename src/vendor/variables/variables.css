@@ -1,0 +1,14 @@
+:root {
+  --white: #ffffff;
+  --black: #141416;
+  --gray: #777e90;
+  --gray-two: #353945;
+  --gray-three: #e6e8ec;
+  --gray-four: #777e90;
+  --purple: #6439df;
+
+  --body-background-color: #1e1e1e;
+  --counter-background-color: rgba(20, 20, 22, 0.8);
+
+  --font-family: "TT Hoves Pro", Arial, sans-serif;
+}

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "TT Hoves Pro";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("./TT-Hover-Pro/TT-Hoves-Pro-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "TT Hoves Pro";
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url("./TT-Hover-Pro/TT-Hoves-Pro-Medium.ttf") format("truetype");
+}
